@@ -1,4 +1,4 @@
-# Testing an Reporting in Python: Allure, Pytest, and Conda
+# Testing and Reporting in Python: Allure, Pytest, and Conda
 
 This is a simple example of how to use Allure, Pytest, and Conda to create a test suite and generate a report.
 The report is generated in a single file, which is useful for sharing the report with others. Also the history of the test runs is included in the report.
